@@ -8,6 +8,8 @@ public class MinhaClasse {
 
         String nomeCompleto = nomeCompleto(primeiroNome, segundoNome);
         System.out.println(nomeCompleto);
+
+        int idade = 2;
     }    
 
     public static String nomeCompleto (String primeiroNome, String segundoNome) {
